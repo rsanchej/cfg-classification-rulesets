@@ -1,0 +1,13 @@
+	table {
+		border-collapse: collapse !important;
+	}
+	th {
+		border: 2px solid black !important;
+		background-color: #d3d3d3;
+	}
+	td {
+		border: 2px solid black !important;
+	}
+	hr {
+		border: 2px solid black !important;
+	}
