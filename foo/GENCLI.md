@@ -50,3 +50,9 @@ Opción ***-type*** nos deja escojer el tipo de proyecto (en el caso de Backend)
 |***BACKEND_LIB***|librerias de Backend                  |
 
 ***ojo*** - no confundir el tipo que va a causar un error!
+
+<table border="2">
+	<tr><th>Tipo</th><th>Descripción</th></tr>
+	<tr><td>BACKEND</td><td>microservicios desarrollados con `mvn`</td></tr>
+	<tr><td>BACKEND_LIB</td><td>librerias de Backend</td></tr>
+</table>
