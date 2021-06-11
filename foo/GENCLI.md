@@ -32,7 +32,7 @@ Opción ***-type*** nos deja escojer el tipo de proyecto (en el caso de Backend)
 
 
 
-|*Tipo*[^1]           |*Descripción*                         |
+|*Tipo* [^1]           |*Descripción*                         |
 |:---             |:---                                  |
 |***BACKEND***    |microservicios desarrollados con `mvn`|
 |***BACKEND_LIB***|librerias de Backend                  |
