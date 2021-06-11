@@ -28,7 +28,7 @@ Solo se debe escoger el ambiente correspondiendo a la carpeta.  Esta ambiguidad 
 
 Opción ***-type*** nos deja escojer el tipo de proyecto (en el caso de Backend):
 
-<!-- style type="text/css" rel="stylesheet">
+<style type="text/css" rel="stylesheet">
 	table {
 		border-collapse: collapse !important;
 	}
@@ -42,7 +42,7 @@ Opción ***-type*** nos deja escojer el tipo de proyecto (en el caso de Backend)
 	hr {
 		border: 2px solid black !important;
 	}
-</style -->
+</style>
 
 |*Tipo*           |*Descripción*                         |
 |:---             |:---                                  |
