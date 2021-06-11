@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="github.css">
+
 ## GEN CLI
 
 Para que una mesa pueda crear los jobs y pipelines, es ***mandatorio*** actualizar o instalar la ultima versión (1.9) del microservico de jenkins el cual indica el lineamiento del GEN CLI.
